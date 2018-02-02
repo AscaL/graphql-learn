@@ -1,0 +1,28 @@
+{
+  "name": "graphql-learn",
+  "version": "1.0.0",
+  "description": "Learning basics of GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AscaL/graphql-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AscaL/graphql-learn/issues"
+  },
+  "homepage": "https://github.com/AscaL/graphql-learn#readme",
+  "dependencies": {
+    "es6-promise": "^4.2.4",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "fetch": "^1.1.0",
+    "graphql": "^0.12.3",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
